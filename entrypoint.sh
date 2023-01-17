@@ -1,3 +1,4 @@
-#! /usr/bin/bash
+#! /bin/bash
 
+echo "Initializing container.."
 

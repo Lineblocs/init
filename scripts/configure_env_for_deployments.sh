@@ -1,1 +1,3 @@
-echo "Configured env for deployment...\r\n"
+#! /bin/bash
+
+echo "Configured env for deployment..."
